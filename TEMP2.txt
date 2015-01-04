@@ -4,7 +4,7 @@ switch branch and merge 2
 switch branch and merge
 one more
 testing
-testing22
+testing2
 testing3
 testing2
 testing4
