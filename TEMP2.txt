@@ -5,3 +5,4 @@ switch branch and merge
 one more
 testing
 testing3
+testing2
